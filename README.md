@@ -121,3 +121,15 @@ These materials are intended for **personal learning, revision, and educational 
 **Courses Completed:** **20 / 20** ✅
 
 Learning never stops. More AI certifications and resources will be added over time.
+
+---
+
+## 🌟 Found This Repository Helpful?
+
+If these notes, certificates, and quiz answers saved you time or helped you learn something new, I'd really appreciate a **⭐ Star** on this repository!
+
+Every star motivates me to create more open learning resources and share my AI journey with the community.
+
+### ⭐ Don't forget to Star this repository if it helped you!
+
+Thank you for your support! 🚀
